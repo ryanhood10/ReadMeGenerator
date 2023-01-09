@@ -1,34 +1,33 @@
-# test 2
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# ReadME Generator
+  
 
-  adl;sfj;asd
-  asklfjk;dlsa 
+  ryanhood10
+  ryanhood4@yahoo.com 
 
   ## Description
-  aslkdfjla;sdjf
+  I wanted to create a ReadME generator in order to quickly create a README for future projects
   
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-   - [license](#license)
+   
 
   ## Installation
       -what are the steps required to install your project?
-      -sadklfjalsdkjf
+      -must have inquirer and fs downloaded
 
   ## Usage
       -instructions & examples for use
       -add screenshot, create an asset/images folder in your repo (check phone)
-      -slkjflsadj
+      -Run node index.js in an integrated terminal of the folder. The application will create a new README.md file for you
 
 
   ## Credits
        -list of collaborators with links to their github profiles
-       -skldjflkasdj
+       -none
 
-    ## License
-        -Apache License 2.0
+    
 
 
   ## Features
@@ -42,7 +41,7 @@
       -write tests for your application. Then provide examples on how to run them here.
 
   ## Questions
-      -    adl;sfj;asd -> find me on GitHub
-      -    asklfjk;dlsa -> my contact email
+      -    ryanhood10 -> find me on GitHub
+      -    ryanhood4@yahoo.com -> my contact email
 ---  
 

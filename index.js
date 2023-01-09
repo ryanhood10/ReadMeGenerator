@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 var inquirer = require('inquirer');
-const generateMarkdown = require('./utils/generateMarkdown')
+const generateMarkdown = require('./generateMarkdown')
 const fs = require('fs')
 
 
@@ -76,7 +76,7 @@ function init() {
   )
   .then((answers) => {
     console.log(answers)
-    const readmeTempelate = generateMarkdown(answers)
+    var readmeTempelate = generateMarkdown(answers)
     console.log(readmeTempelate)
     writeToFile(readmeTempelate)
     // Use user feedback for... whatever!!
