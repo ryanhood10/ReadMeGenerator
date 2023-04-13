@@ -24,24 +24,9 @@
 
 
   ## Credits
-       -list of collaborators with links to their github profiles
-       -none
-
+          -    ryanhood10 -> find me on GitHub
     
-
-
   ## Features
-        - lists the features of the product
+        - creates an HTML file off of inquirer prompts
 
-  ## Contributing
-      - If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.
-     The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-  ## Tests
-      -write tests for your application. Then provide examples on how to run them here.
-
-  ## Questions
-      -    ryanhood10 -> find me on GitHub
-      -    ryanhood4@yahoo.com -> my contact email
----  
 
